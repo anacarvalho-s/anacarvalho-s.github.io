@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae - Criadora de Sites e Gestora de Tráfego</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff7f50; /* laranja */
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #333;
+            margin-top: 30px;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            margin-bottom: 20px;
+        }
+        .contact {
+            margin-top: 30px;
+            text-align: center;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #333;
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 0 5px;
+            transition: background-color 0.3s ease;
+        }
+        .contact a:hover {
+            background-color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Curriculum Vitae</h1>
+        
+        <h2>Dados Pessoais</h2>
+        <p><strong>Nome:</strong> Seu Nome</p>
+        <p><strong>Email:</strong> seuemail@example.com</p>
+        <p><strong>Telefone:</strong> (00) 12345-6789</p>
+        
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Criação de sites responsivos e modernos</li>
+            <li>Otimização de SEO para aumento de tráfego</li>
+            <li>Gestão de campanhas de tráfego pago (Google Ads, Facebook Ads)</li>
+            <li>Análise de métricas e relatórios de desempenho</li>
+        </ul>
+        
+        <h2>Experiência Profissional</h2>
+        <h3>Criadora de Sites e Gestora de Tráfego</h3>
+        <p><strong>Empresa XYZ</strong> | Janeiro 20XX - Presente</p>
+        <p>Responsável pela criação de sites utilizando HTML, CSS e JavaScript. Gestão de campanhas de tráfego pago, otimização de SEO e análise de métricas para melhorar o desempenho.</p>
+        
+        <h2>Educação</h2>
+        <p><strong>Bacharelado em Ciência da Computação</strong></p>
+        <p>Universidade ABC | Ano de Conclusão</p>
+        
+        <div class="contact">
+            <p>Entre em contato:</p>
+            <a href="mailto:seuemail@example.com">Email</a>
+            <a href="tel:+00123456789">Telefone</a>
+            <a href="https://linkedin.com/seu_perfil" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
